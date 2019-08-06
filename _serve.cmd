@@ -1,0 +1,1 @@
+_env.cmd && node app.js
